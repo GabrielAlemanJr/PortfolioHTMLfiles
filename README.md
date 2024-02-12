@@ -1,1 +1,1 @@
-HTML files used in my portfolio website as well as the bootstrap css file
+HTML files used in my portfolio website as well as the Bootstrap css file
